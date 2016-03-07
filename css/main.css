@@ -12,7 +12,8 @@ footer a {
   color: #999; }
 
 .page-wrapper {
-  height: 70%;
+  margin: 0 auto;
+  width: 1024px;
   display: block; }
 
 /*# sourceMappingURL=main.css.map */
