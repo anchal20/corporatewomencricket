@@ -1,0 +1,28 @@
+/* Colors */
+
+$bg-col 	: lavender;
+$text-col : #999;
+
+body, html {
+	width  : 100%;
+	height : 100%;
+}
+
+body {
+	background : $bg-col;
+}
+
+footer {
+	hr {
+		border-top : 1px solid $text-col;
+	}
+	a {
+		color: $text-col;
+	}
+}
+
+.page-wrapper {
+	margin 	: 0 auto;
+	width 	: 1024px;
+	display : block;
+}
